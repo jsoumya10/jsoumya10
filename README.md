@@ -20,6 +20,6 @@
 - 🌱 I’m currently learning **Core Java**
 - 👯 I’m looking to collaborate on **Web Development**
 - 🤔 I’m looking for  **Internships**
-- 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/shagun-jindal-738456218/)! I am happy to help.
+- 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/soumya-jain-774179154/)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
