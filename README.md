@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a target="_blank">
-    <img src="<a href="animated-computer-image-0444"><img src="<a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0444.gif" border="0" alt="animated-computer-image-0444" /></a>" border="0" alt="animated-computer-image-0111" /></a>" 
+    <img src="<a href="animated-computer-image-0444"><img src="<a href="https://www.animatedimages.org/cat-computer-56.htm"><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0444.gif" border="0" alt="animated-computer-image-0444" /></a> /></a>" 
   </a>
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
   <a target="_blank">
