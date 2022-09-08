@@ -1,5 +1,5 @@
-### Hello World, 
-I'm SOUMYA JAIN
+### Hello Everyone, 
+I am SOUMYA JAIN
 
 <h1 align="center">
   <a target="_blank">
@@ -18,9 +18,10 @@ I'm SOUMYA JAIN
 </a>
 
 - 🔭 I’m currently working on **Web Development**
+- 🌱 I’m currently learning **C Language**
 - 🌱 I’m currently learning **Core Java**
-- 👯 I’m looking to collaborate on **Web Development**
+- 🔭 I’m currently working on **PROJECTS**
 - 🤔 I’m looking for  **Internships**
 - 💬 Ask me about Anything on [Linkedin](https://www.linkedin.com/in/soumya-jain-774179154/)! I am happy to help.
-- 😄 Pronouns : **He/Him/His**
+
 
